@@ -1,0 +1,39 @@
+body{
+	background-color: #CD5C5C;
+	color: #1C1C1C;
+	font-family: arial;
+	font-size: 12px;
+	text-align: justify;
+	padding-left: 5px;
+	padding-top: 10px;
+}
+h1,h2,h5{
+	text-transform: uppercase;
+	text-align: right;
+}
+
+div{
+	text-align: center;
+}
+.cabecalho{
+	text-align: justify;
+}
+.gremio{
+	color: blue;
+}
+.inter{
+	color: red;
+	font-style: italic;
+}
+.cbf{
+	color: yellow;
+}
+.futebol{
+	background-color: gray;
+}
+.surf{
+	background-color: lightblue;
+}
+.futebol1{
+	font-size: 30px;
+}
